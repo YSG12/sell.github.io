@@ -8,7 +8,7 @@
 ### 移动端演示
 扫二维码在手机上查看效果更好
 
-![手机预览](https://stavyan.github.io/vue-sell-stav/static/qrcode)
+![手机预览](https://stavyan.github.io/vue-sell-stav/static/qrcode.png)
 
 ### 组件
 
